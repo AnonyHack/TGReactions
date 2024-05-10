@@ -1,6 +1,5 @@
+pkg install pip
 telethon
-request
-pip
 random
 pyrogram
 filters
