@@ -4,7 +4,7 @@
 gunicorn app:app &
 
 # Start the second process
-python3 bot.py &
+python3 bot_1.py &
 
 # Start the second process
 python3 bot_2.py &
